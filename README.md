@@ -1,5 +1,5 @@
 
-![ESP32 hardware wallet](https://i.imgur.com/FXjICTq.png)
+![ESP32 hardware wallet](https://i.imgur.com/Mt2Ey7y.png)
 # Goomba - a cheap DIY bitcoin hardware wallet (only $5!)
 
 *This is an untested truley reckless hardware wallet, we take no responsiblity for loss of funds!*
