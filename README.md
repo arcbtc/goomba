@@ -10,6 +10,9 @@ https://github.com/micro-bitcoin/uBitcoin
 Goomba is a simplified version of Stepan Snigirev's hack at BItcoin2019 
 https://github.com/stepansnigirev/esp32_watch
 
+# Tip me
+If you like this project and might even use or extend it, why not send some tip love!
+https://paywall.link/to/f4e4e
 
 
 
